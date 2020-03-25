@@ -3,7 +3,7 @@ import json
 
 
 placeIDs = []
-myKey = "AIzaSyCqAd3yQDIfqywHLj-tB6WdzgwyqGWRpCI"
+myKey = "here comes your key"
 
 myPosition_x = 53.460408
 myPosition_y = -2.235139
